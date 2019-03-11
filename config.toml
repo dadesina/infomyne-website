@@ -1,0 +1,4 @@
+theme = "hugo-academic"
+baseURL = "https://infomynetechnologies.com/"
+languageCode = "en-us"
+title = "Infomyne Technologies LLC"
